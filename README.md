@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
+- 🤔 I’m looking for help with [Real World Problems](https://github.com/achoudh5/Manipulating_Excel_Sheet)
+- 👯 I’m looking to collaborate on anything
 <!--
 **achoudh5/achoudh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
